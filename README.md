@@ -20,8 +20,7 @@
 
 ---
 
-### Deployed expense tracker react app ##
-https://speech-based-expense-tracker.netlify.app/
+
 
 ---
 
