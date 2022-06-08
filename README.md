@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=100px src="https://img-premium.flaticon.com/png/512/2942/2942269.png?token=exp=1622321420~hmac=4864c7ee60fb37512bdbb265604717a0"</a>
+ <img width=100px src="https://lh3.googleusercontent.com/A_0noYV0rQuOLhFxUxyleLprhde9vqTgxMJ-EaxCpTytaP-qVD0eN74aCzz0BUSMHg"</a>
 </p>
 <h1 align = 'center'>   Spendee - Track expenses with your voice</h1>
 
